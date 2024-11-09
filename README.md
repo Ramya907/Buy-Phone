@@ -66,5 +66,5 @@ Make sure you have Python installed.
 Run the script in a terminal or Python IDE with the command:
 
 ```
-python buy-phone.py
+   python buy-phone.py
 ```
