@@ -65,5 +65,5 @@ Make sure you have Python installed.
 
 Run the script in a terminal or Python IDE with the command:
 ```bash
-python phone_store.py
-```bash
+   python phone_store.py
+```
